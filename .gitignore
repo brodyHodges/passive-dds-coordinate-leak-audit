@@ -1,0 +1,5 @@
+media/
+.DS_Store
+*.log
+*.bin
+*.pcap
